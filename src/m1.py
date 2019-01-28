@@ -2,7 +2,7 @@
 This module lets you practice DEBUGGING when RUN-TIME EXCEPTIONS occur.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
-         Valerie Galluzzi, Mark Hays, Amanda Stouder, Aaron Wilkin,
+         Valerie Galluzzi, Mark Hays, Amanda Stouder, cAaron Wilkin,
          their colleagues, and OMAR A. FAYOUMI.]
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
